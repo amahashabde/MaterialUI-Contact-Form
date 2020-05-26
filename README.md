@@ -1,8 +1,7 @@
 # MaterialUI-Contact-Form
 Website contact form using Material UI.
 
-This project was bootstrapped with Create React App (https://github.com/facebook/create-react-app). 
-It also uses components from Material UI (https://material-ui.com/) React framework to build the website contact form.
+This project also uses components from Material UI (https://material-ui.com/) React framework to build the website contact form.
 
 Available Scripts
 In the project directory, you can run:
