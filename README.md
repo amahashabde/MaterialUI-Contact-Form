@@ -1,5 +1,5 @@
 # MaterialUI-Contact-Form
-Website contact form using Material UI.
+Website contact form using Material UI and React.
 
 This project also uses components from Material UI (https://material-ui.com/) React framework to build the website contact form.
 
